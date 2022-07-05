@@ -43,7 +43,7 @@
 </dependency>
 ```
 
-注：此处只列出了Nacos相关依赖，详细依赖可参考[仓库代码](https://github.com/shenjy24/jackal-spring-cloud-alibaba-server)。
+注：此处只列出了Nacos相关依赖，详细依赖可参考[仓库代码](https://github.com/shenjy24/jackal-spring-cloud-alibaba-client)。
 
 ### 三.服务配置
 
