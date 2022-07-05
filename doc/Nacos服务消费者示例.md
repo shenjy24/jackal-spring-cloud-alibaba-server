@@ -122,3 +122,5 @@ public class UserController {
 }
 ```
 
+### 六.仓库地址
+[jackal-spring-cloud-alibaba-client](https://github.com/shenjy24/jackal-spring-cloud-alibaba-client)
